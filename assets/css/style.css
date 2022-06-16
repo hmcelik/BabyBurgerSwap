@@ -357,7 +357,7 @@ body {
   font-size: 1rem;
   line-height: 1.7;
   font-family: "Jost", sans-serif;
-  background-color: #c67529;
+  background-color: #171835;
 }
 
 h1,
@@ -818,7 +818,7 @@ a {
 }
 
 .bg__primary {
-  background-color: #d95a1f;
+  background-color: #12132A;
 }
 
 /*=-=-=-=-=-=====> utility classes end here <======= -=-=-=-=-=-=-=*/
@@ -946,7 +946,7 @@ ol {
 }
 
 .header {
-  background-color: #c67529;
+  background-color: #df7511;
 }
 @media (min-width: 992px) {
   .header--fixed {
